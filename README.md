@@ -1,4 +1,3 @@
-</> Markdown
 ## 📁 PPT Jurnal
 
 Klik link di bawah untuk membuka file:
