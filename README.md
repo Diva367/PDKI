@@ -2,4 +2,4 @@
 
 Klik link di bawah untuk membuka file:
 
-👉 [Download / Lihat PPT](https://drive.google.com/drive/folders/1VdHWRxMTs6awkOS59o53AC0syHm6aB1?usp=sharing)
+👉 [Download / Lihat PPT](https://drive.google.com/drive/folders/1VdHW8rxMTs6awkOS59o53ACOsyHm6aB1?usp=sharing)
