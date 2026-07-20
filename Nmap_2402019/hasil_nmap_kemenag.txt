@@ -1,0 +1,15 @@
+# Nmap 7.99 scan initiated Mon Jul 20 08:45:47 2026 as: nmap -Pn -A -oN hasil_nmap_kemenag.txt kemenag.go.id
+Nmap scan report for kemenag.go.id (103.7.13.240)
+Host is up.
+Other addresses for kemenag.go.id (not scanned): fd00:aa:bb:20b0::6707:df0
+All 1000 scanned ports on kemenag.go.id (103.7.13.240) are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+Too many fingerprints match this host to give specific OS details
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT      ADDRESS
+1   20.00 ms 10.121.227.193
+2   ... 30
+
+OS and Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+# Nmap done at Mon Jul 20 08:49:40 2026 -- 1 IP address (1 host up) scanned in 232.64 seconds
